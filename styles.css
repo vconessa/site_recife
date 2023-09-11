@@ -3,21 +3,13 @@ body{
 }
 
 .main{
-    text-align: center;
-    
+    display: flex;
+    justify-content: center;
 }
 
 .header{
-    background-color: aqua;
+    background-color: aquamarine;
     text-align: center;
-    height: 400px;
-    width: 1000px;
-    margin: auto;
-    border-radius: 30px;
-    
-}
-
-img{
-    max-width: 100%;
-    max-height: 100%;
+    margin: 50px;
+    border-radius: 40px;
 }
